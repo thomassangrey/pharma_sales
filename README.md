@@ -1,6 +1,3 @@
-# pharma_sales
-Scalable Solution with relational database pilot project 
-
 Python Files:
 (in /src)
         event_profiler.py
